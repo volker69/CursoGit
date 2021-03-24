@@ -53,3 +53,5 @@ let Servant = {
     ataque:15000,
     defensa:14000
 }
+
+let {clase,np,ataque} = Servant;
