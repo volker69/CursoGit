@@ -63,3 +63,5 @@ let Master = {
 }
 
 let GrialDAta = {...Master,...Servant}
+
+console.log(GrialDAta);
