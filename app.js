@@ -11,3 +11,9 @@ function mayorDeEdad(age,name) {
         no es mayor de edad`);
     }
 }
+
+function info(age,name){
+    console.log(`Informacion del sujeto es
+     nombre: ${name}
+     edad  : ${age}`);
+}
