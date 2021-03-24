@@ -61,3 +61,5 @@ let Master = {
    edas : 17,
    magia: true
 }
+
+let GrialDAta = {...Master,...Servant}
