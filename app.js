@@ -65,3 +65,8 @@ let Master = {
 let GrialDAta = {...Master,...Servant}
 
 console.log(GrialDAta);
+
+mayorDeEdad(nombre,edad);
+
+info(edad,nombre);
+
