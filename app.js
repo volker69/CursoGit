@@ -1,5 +1,7 @@
 let nombre = 'SEBA';
 let edad = 27;
+let ciudad = 'santiago';
+let trabajo = 'Desarrollador';
 console.log(`Su nombre es ${nombre}`);
 
 function mayorDeEdad(age,name) {
@@ -16,4 +18,7 @@ function info(age,name){
     console.log(`Informacion del sujeto es
      nombre: ${name}
      edad  : ${age}`);
+}
+function infoCity(city){
+    console.log(`Ciudad en donde trabaja es ${city}`);
 }
