@@ -55,3 +55,9 @@ let Servant = {
 }
 
 let {clase,np,ataque} = Servant;
+
+let Master = {
+   Master : 'Shero',
+   edas : 17,
+   magia: true
+}
