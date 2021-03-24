@@ -45,3 +45,11 @@ function Selec(selector) {
             break;
     }
 }
+
+let Servant = {
+    clase:'Saber',
+    nombre:'Arturia',
+    np:'Exacalibur',
+    ataque:15000,
+    defensa:14000
+}
